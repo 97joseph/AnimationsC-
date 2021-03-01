@@ -1,0 +1,15 @@
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\bin\Debug\ShapeAnimator.exe.config
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\bin\Debug\ShapeAnimator.exe
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\bin\Debug\ShapeAnimator.pdb
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator.csprojResolveAssemblyReference.cache
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\MainWindow.g.cs
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\App.g.cs
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator_MarkupCompile.cache
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator_MarkupCompile.lref
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\MainWindow.baml
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator.g.resources
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator.Properties.Resources.resources
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator.csproj.GenerateResource.Cache
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator.csproj.CoreCompileInputs.cache
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator.exe
+C:\Users\Brian Pham\Desktop\DOTNET\ShapeAnimator\ShapeAnimator\obj\Debug\ShapeAnimator.pdb
